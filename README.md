@@ -1,8 +1,7 @@
-```markdown
+
 # Rock-Paper-Scissors Game
 
 This repository contains the code for a simple Rock-Paper-Scissors game built with HTML, CSS, and JavaScript.
-
 ## How to Play
 
 1. **Open the `index.html` file in a web browser.**
