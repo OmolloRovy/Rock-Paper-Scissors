@@ -31,8 +31,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## License
 
-This project is licensed under the [Choose a License - e.g., MIT License] - see the LICENSE file for details.
-
+This project is licensed under the 
 ## Note:
 
 This is a basic implementation. You can further enhance this game by:
