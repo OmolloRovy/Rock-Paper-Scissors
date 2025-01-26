@@ -32,6 +32,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## License
 
 This project is licensed under the BSD 3-Clause License
+
 ## Note:
 
 This is a basic implementation. You can further enhance this game by:
@@ -42,4 +43,3 @@ This is a basic implementation. You can further enhance this game by:
 - Adding animations or sound effects.
 
 I hope this README is helpful!
-```
