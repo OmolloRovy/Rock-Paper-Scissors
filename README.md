@@ -17,7 +17,7 @@ This repository contains the code for a simple Rock-Paper-Scissors game built wi
 
 ## Files
 
-- `index.html`: The main HTML file that defines the game's structure and links to the CSS and JavaScript files.
+- `main.html`: The main HTML file that defines the game's structure and links to the CSS and JavaScript files.
 - `rps.js`: The JavaScript file that contains the game logic.
 - `style.css`: (Optional) The CSS file for styling the game's appearance.
 
