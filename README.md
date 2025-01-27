@@ -5,7 +5,7 @@ This repository contains the code for a simple Rock-Paper-Scissors game built wi
 
 ## How to Play
 
-1. **Open the `index.html` file in a web browser.**
+1. **Open the `.html` file in a web browser.**
 2. **Click on one of the buttons:** "Rock", "Paper", or "Scissors".
 3. **The result of the game will be displayed below.**
 
