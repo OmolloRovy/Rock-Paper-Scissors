@@ -24,7 +24,7 @@ This repository contains the code for a simple Rock-Paper-Scissors game built wi
 ## To Run the Game
 
 1. **Clone this repository:** `git clone <repository_url>`
-2. **Open the `.html` file in a web browser.**
+2. **Open the `main.html` file in a web browser.**
 
 ## Contributing
 
